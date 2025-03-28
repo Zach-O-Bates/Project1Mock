@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: "/Project1Mock/",
+  base: "https://zach-o-bates.github.io/Project1Mock/",
 });
